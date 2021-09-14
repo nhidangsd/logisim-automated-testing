@@ -3,7 +3,7 @@ This project is made for linux or unix OS.
 
 ## Contents:
 - **compare-master.circ** : A sample logisim file of our ***solution*** circuit.
-- **compare-query-studentA.circ** : A sample logisim file of a student who has a ***incorrect*** circuit.
+- **compare-query-studentA.circ** : A sample logisim file of a student who has an ***incorrect*** circuit.
 - **compare-query-studentB.circ** : A sample logisim file of a student who has a ***correct*** circuit.
 - **runtest.sh**: A simple executable file to run the automated testing.
 
@@ -27,8 +27,6 @@ Our folder should look like this
 ├── compare-query-studentB.circ
 ├── logisim.jar
 └── runtest.sh
-
-
 ```
 **5. Execute the script file to run the test:**
 ```
