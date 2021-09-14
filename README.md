@@ -9,13 +9,27 @@ This project is made for linux or unix OS.
 
 ## Setup
 
-**2. Clone or download the project:**
+**1. Clone or download the project:**
 ```
 git clone https://github.com/nhidangsd/logisim-automated-testing.git
 ```
-**4. Go to the project directory:**
+**2. Navigate to the project directory:**
 ```
 cd logisim-automated-testing
+```
+**2. Copy and paste the file ***logisim.jar*** into this directory:** [IMPORTANT]
+
+Our folder should look like this
+```
+.
+├── compare-master.circ
+├── compare-query-studentA.circ
+├── compare-query-studentB.circ
+├── logisim.jar
+├── output-master.txt
+└── runtest.sh
+
+
 ```
 **5. Execute the script file to run the test:**
 ```
