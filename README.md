@@ -17,7 +17,7 @@ git clone https://github.com/nhidangsd/logisim-automated-testing.git
 ```
 cd logisim-automated-testing
 ```
-**2. Copy and paste the file ***logisim.jar*** into this directory:** [IMPORTANT]
+**3. Copy and paste the file ***logisim.jar*** into this directory:** [IMPORTANT]
 
 Our folder should look like this
 ```
@@ -28,7 +28,7 @@ Our folder should look like this
 ├── logisim.jar
 └── runtest.sh
 ```
-**5. Execute the script file to run the test:**
+**4. Execute the script file to run the test:**
 ```
 ./runtest.sh
 ```
