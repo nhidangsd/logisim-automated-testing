@@ -26,7 +26,6 @@ Our folder should look like this
 ├── compare-query-studentA.circ
 ├── compare-query-studentB.circ
 ├── logisim.jar
-├── output-master.txt
 └── runtest.sh
 
 
